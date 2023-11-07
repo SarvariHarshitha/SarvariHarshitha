@@ -1,5 +1,6 @@
 # Welcome to My GitHub Profile! 👋
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/panda-waving-cartoon-sticker-pi4qfklzce0s7zo5.gif" />
+
 ## About Me
 I'm Sarvari Harshitha, a passionate Computer Science student from VIT-AP Univerity. I love diving into Development, exploring OOPS,Data Science, and creating useful projects.
 
