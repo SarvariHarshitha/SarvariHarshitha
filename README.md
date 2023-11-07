@@ -12,7 +12,7 @@ I'm Sarvari Harshitha, a passionate Computer Science student from VIT-AP Univeri
 
 
 ## Connect with Me
-- LinkedIn: [My LinkedIn Profile]
-- Email: [My Email][My Email](mailto:harshithakonda21@gmail.com)
+- LinkedIn: [My LinkedIn Profile](www.linkedin.com/in/sarvari-harshitha-konda-a97a5722a)
+- Email: [My Email](mailto:harshithakonda21@gmail.com)
 
 Feel free to explore my repositories and reach out! I'm always open to collaboration and interesting discussions.
