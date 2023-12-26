@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile! 👋
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SarvariHarshitha&label=Profile%20views&color=0e75b6&style=flat" alt="shaikmehenaaz" /> </p>
+
 ## About Me
 <img align="right" alt="Coding" width="400" src="https://github.com/SarvariHarshitha/SarvariHarshitha/blob/main/3BBS.gif" />
 I'm Sarvari Harshitha, a passionate Computer Science student from VIT-AP Univerity. I love diving into Development, exploring OOPS,Data Science, and creating useful projects.
