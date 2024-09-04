@@ -1,5 +1,5 @@
 # Welcome to My GitHub Profile! 👋
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=SarvariHarshitha&label=Profile%20views&color=0e75b6&style=flat"  /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=SarvariHarshitha&label=Profile%20views&color=0e75b6&style=flat"  /> </p>
 
 ## About Me
 I'm Sarvari Harshitha, a passionate Computer Science student from VIT-AP Univerity. I love diving into Development, exploring OOPS,Data Science, and creating useful projects.
@@ -39,6 +39,10 @@ I'm Sarvari Harshitha, a passionate Computer Science student from VIT-AP Univeri
 <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>
 
 </div>
+
+
+### :fire: My Stats
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarvariHarshitha&layout=compact&theme=dark"/>
 
 
 
