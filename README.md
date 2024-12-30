@@ -16,16 +16,24 @@
 - 👯 I’m looking to collaborate on Web Development, Machine Learning and Deep Learning Projects
 - 💬 Ask me about Programming or Machine Learning.
 
-<p>Connect with me on
+<h3> My Experience 🔬</h3>
+<div>
+ <ul>
+ <li><h4>Digital Engineer 🖥️</h4>
+ <ol><li>Selected for Summer Internship through TVS Utkarsh program.</li> <li> I have worked on live applications for the internal use of company using Power Apps and Web development employing Flask Framework helping company attain a direct profit of 3 crore rupees and indirect profit of 10 crore rupees.</li></ol>
+  </li>
+ </ul>
+</div>
+
+<p><b>Connect with me on : </b>
 <br>	
+ <br>
 <a target="_blank" href="https://www.linkedin.com/in/sarvari-harshitha-konda"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
-&emsp;
+ &emsp;
 <a target="_blank" href="mailto:harshithakonda21@gmail.com"
 ><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 &emsp;
-
-
-
+  
 <br>
 </p>
 
@@ -39,6 +47,21 @@
 <br><br><br><br><br>
 
 <hr>
+
+## 👨‍💻 Competitive Coding Profile
+<table style="width: 100%; text-align: center; border-collapse: collapse;">
+  <tr>
+    <!-- Leetcode Section (1st Column) -->
+    <td style="width: 50%; padding: 10px; text-align: center;">
+      <h3>Leetcode Info</h3>
+      <img src="https://leetcard.jacoblin.cool/noonecares?theme=unicorn&extension=activity" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
+    </td>
+   <td style="width: 50%; padding: 10px; text-align: center;">
+      <h3>GFG Info</h3>
+      <img src="https://gfgstatscard.vercel.app/harshithakonda" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
+    </td>
+  </tr>
+</table>
 
 
 ## 🛠️ My Skills
@@ -70,22 +93,23 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
     <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 </a>
-
+ &emsp;
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
     <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </a>
-
+ &emsp;
 <a href="https://reactjs.org/">
     <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
 </a>
+ &emsp;
 <a href="https://nodejs.org/">
     <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 </a>
-
+ &emsp;
 <a href="https://flask.palletsprojects.com/">
     <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
 </a>
-
+ &emsp;
 <a href="https://expressjs.com/">
     <img alt="Express.js" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white"/>
 </a>
