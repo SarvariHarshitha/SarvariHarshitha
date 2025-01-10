@@ -25,6 +25,11 @@
  </ul>
 </div>
 
+<h3>My Blogs</h3>
+<ul>
+ <li><a href="https://medium.com/@harshithakonda21/introduction-to-ai-engineering-6f8bdfa0f10d">Introduction to AI engineering</a></li>
+</ul>
+
 <p><b>Connect with me on : </b>
 <br>	
  <br>
