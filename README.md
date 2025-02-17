@@ -10,7 +10,7 @@
 
 <h3> Here's some fun facts about me: </h3>
 
-- 💻 I’m an upcoming SDE at Dell Technologies.
+- 💻 I’m a SDE Intern at Dell Technologies.
 - 🔭 I’m currently working on learning new Technologies.
 - 🌱 I had interned at TVS Motors as Digital Engineer.
 - 👯 I’m looking to collaborate on Web Development, Machine Learning and Deep Learning Projects
